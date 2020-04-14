@@ -14,7 +14,9 @@ typescript-sample
 ## Install
 
 ``` bash
-$ yarn watch
+$ yarn
+$ yarn run dev
+$ yarn run generate
 ```
 
 ## Contribution
